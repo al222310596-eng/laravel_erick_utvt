@@ -35,7 +35,7 @@ sea validado automáticamente antes de integrarse a la rama principal.
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/al222310596-eng/erick.git
+   git clone https://github.com/al222310596-eng/laravel_erick_utvt.git
    cd erick
    ```
 
